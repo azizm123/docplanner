@@ -81,18 +81,25 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    margin: 0px -10px;
 }
 #font1{
     background-color: #00ccb1;
     width: 25%;
+    height: 317px;
+    border-radius: 25px;
 }
 #font2{
     background-color: #3d83df;
     width: 25%;
+    height: 317px;
+    border-radius: 25px;
 }
 #font3{
     background-color: #1b2734;
     width: 25%;
+    height: 317px;
+    border-radius: 25px;
 }
 .text1{
     color: white;
@@ -103,6 +110,12 @@ body {
 .texticon{
     color: white;
 }
+#sous-fonts{
+    margin: 2.5rem auto 3.125rem;
+
+}
+
+
 /*.text{
     display: flex;
     flex-direction: row;
